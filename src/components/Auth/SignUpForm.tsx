@@ -78,7 +78,7 @@ const SignUpForm: React.FC<SignUpFormProps> = ({ onToggleMode }) => {
             <UserPlus className="w-8 h-8 text-green-600" />
           </div>
           <h2 className="text-3xl font-bold text-gray-800">Create Account</h2>
-          <p className="text-gray-600 mt-2">Join TaskMaster to organize your life</p>
+          <p className="text-gray-600 mt-2">Join VdoList to organize your life</p>
         </div>
 
         {error && (
