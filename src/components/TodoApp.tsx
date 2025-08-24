@@ -46,7 +46,7 @@ const TodoApp: React.FC = () => {
       {/* Header */}
       <div className="bg-white shadow-sm border-b border-gray-200 p-6">
         <div className="max-w-4xl mx-auto px-4 sm:px-0">
-          <h2 className="text-3xl font-bold text-gray-800 mb-2">Todo Tasks</h2>
+          <h2 className="text-3xl font-bold text-gray-800 mb-2">Vdo Tasks</h2>
           <div className="flex flex-wrap items-center gap-4 text-sm text-gray-600">
             <span>Total: {totalCount}</span>
             <span>Completed: {completedCount}</span>
