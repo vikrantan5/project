@@ -62,7 +62,7 @@ const TodoApp: React.FC = () => {
           </div>
           
           {/* Recurring tasks info */}
-          {tasks.some(task => task.isRecurring) && (
+{/*           {tasks.some(task => task.isRecurring) && (
             <div className="mt-4 p-3 bg-blue-50 rounded-lg border-l-4 border-blue-400">
               <div className="flex items-center gap-2 text-blue-800">
                 <RotateCcw size={16} />
@@ -71,7 +71,7 @@ const TodoApp: React.FC = () => {
                 </span>
               </div>
             </div>
-          )}
+          )} */}
         </div>
       </div>
 
